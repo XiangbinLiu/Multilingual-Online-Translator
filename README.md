@@ -1,10 +1,10 @@
-# `Multilingual`-Online-Translator
+# Multilingual-Online-Translator
 
 This app translate a word and returns some examples.
 
-Steps:
+## Steps:
 
-#### Set your os encoding to UTF-8.
+### Set your os encoding to UTF-8.
 
 For windows, do the following:  
 
@@ -13,11 +13,12 @@ change system region setting --> beta version
 
 
 
-#### Launch your terminal in this directory.
+### Launch your terminal in this directory.
 
-#### Type the following commands
+### Type the following commands
 
 `pip install requests`
+
 `pip install BeautifulSoup`
 
 `python translator.py language1 language2 word`
